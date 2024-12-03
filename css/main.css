@@ -3,23 +3,6 @@
     margin: 0;
     padding: 0;
 }
-@media (max-width: 1000px) {
-    .services {
-        flex-direction: column;
-    }
-
-    .service {
-        margin-bottom: 20px;
-    }
-
-    #equipment .equipment-item {
-        width: 45%;
-    }
-
-    header {
-        padding: 10px 15px;
-    }
-}
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
